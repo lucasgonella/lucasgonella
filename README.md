@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Gonella.
 
 - 🔭 Hoje trabalho com Infraestrutura de TI 
-- 🐘 Estudando PHP e também DevOPS
+- 🖥 Estudando JS e também DevOPS
 - 📫 Contate-me no e-mail: goonella@hotmail.com
 
 <div align="center">
