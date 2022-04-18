@@ -2,6 +2,7 @@
 
 - 🔭 Hoje trabalho com Infraestrutura de TI 
 - 📫 Contate-me no e-mail: goonella@hotmail.com
+- 🎓 Estudando Data Science
 
 <div align="center">
   <a href="https://github.com/lucasgonella">
