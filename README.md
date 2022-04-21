@@ -11,6 +11,7 @@ ___
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgonella&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 ___
+
   ### Conhecimentos/Domínios 
   
   <div style="display: inline_block"><br>
@@ -23,6 +24,7 @@ ___
 
 </div>
 ___  
+
   ##
  
 <div>
@@ -31,7 +33,8 @@ ___
   <a href="https://pt.wikipedia.org/wiki/Linux" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"></a>
   
 </div>
-___  
+___
+
   ### Contatos
 
 <div> 
