@@ -10,7 +10,9 @@ ___
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgonella&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgonella&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 ___
+  
 
   ### Conhecimentos/Domínios 
   
@@ -23,6 +25,7 @@ ___
 
 
 </div>
+
 ___  
 
   ##
@@ -33,6 +36,7 @@ ___
   <a href="https://pt.wikipedia.org/wiki/Linux" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"></a>
   
 </div>
+
 ___
 
   ### Contatos
