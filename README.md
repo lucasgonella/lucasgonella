@@ -1,15 +1,16 @@
-### Olá! Eu sou o Lucas Gonella.
+## Olá! Eu sou o Lucas Gonella.
 
 - 🔭 Hoje trabalho com Infraestrutura de TI 
 - 📫 Contate-me no e-mail: goonella@hotmail.com
 - 🎓 Estudando Data Science
+___
 
 <div align="center">
   <a href="https://github.com/lucasgonella">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgonella&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgonella&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+___
   ### Conhecimentos/Domínios 
   
   <div style="display: inline_block"><br>
@@ -21,7 +22,7 @@
 
 
 </div>
-  
+___  
   ##
  
 <div>
@@ -30,7 +31,7 @@
   <a href="https://pt.wikipedia.org/wiki/Linux" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"></a>
   
 </div>
-  
+___  
   ### Contatos
 
 <div> 
