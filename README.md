@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Infraestrutura de TI 
 - 📫 Contate-me no e-mail: goonella@hotmail.com
-- 🎓 Estudando Data Science
+- 🎓 Aluno Staart
 ___
 
 <div align="center">
