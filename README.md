@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Gonella.
 
-- 🔭 Hoje trabalho com Infraestrutura de TI 
+- 🔭 Hoje trabalho como Cloud Analyst e Infraestrutura 
 - 📫 Contate-me no e-mail: goonella@hotmail.com
   ### Contatos
 
