@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Gonella.
 
-- 🔭 Hoje trabalho como Cloud Analyst e Infraestrutura 
+- 🔭 Hoje trabalho como SysAdmin
 - 📫 Contate-me no e-mail: goonella@hotmail.com
   ### Contatos
 
