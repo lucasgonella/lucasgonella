@@ -58,11 +58,12 @@ Atualmente atuo com administração de servidores, redes, segurança, cloud e su
 ## 📈 GitHub Stats
 
 <div align="center">
-
-![Lucas Gonella GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasgonella&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgonella&layout=compact&theme=dracula)
-
+  <a href="https://github.com/lucasgonella">
+    <img height="170" alt="Estatísticas do GitHub de Lucas Gonella" src="https://github-readme-stats.vercel.app/api?username=lucasgonella&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;cache_seconds=21600" />
+  </a>
+  <a href="https://github.com/lucasgonella?tab=repositories">
+    <img height="170" alt="Linguagens mais usadas por Lucas Gonella" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgonella&amp;layout=compact&amp;theme=dracula&amp;hide_border=true&amp;langs_count=8&amp;cache_seconds=21600" />
+  </a>
 </div>
 
 ---
