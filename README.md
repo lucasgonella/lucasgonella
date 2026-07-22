@@ -136,15 +136,12 @@ Melhorar continuamente
 
 ## GitHub
 
+Neste perfil, concentro laboratórios, automações e projetos que registram minha evolução prática de **SysAdmin para DevOps e SRE**.
+
 <div align="center">
 
-<a href="https://github.com/lucasgonella">
-  <img height="165" alt="Estatísticas do GitHub de Lucas Gonella" src="https://github-readme-stats.vercel.app/api?username=lucasgonella&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
-
-<a href="https://github.com/lucasgonella?tab=repositories">
-  <img height="165" alt="Linguagens mais usadas por Lucas Gonella" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgonella&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-</a>
+[![Ver repositórios](https://img.shields.io/badge/Explorar-repositórios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasgonella?tab=repositories)
+[![Projeto em destaque](https://img.shields.io/badge/Projeto-DevOps%20SRE%20Lab-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/lucasgonella/devops-sre-lab)
 
 </div>
 
